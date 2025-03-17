@@ -7,4 +7,4 @@ Inspired by the talk at FunOCaml24 and the fascinating approach Claudius takes t
 
 
 
-[![Dynamicwaveripple Demo](assets/WaveRipples.png)](assets/demo.mp4)
+[Watch](https://github.com/user-attachments/assets/5295c210-ff37-4ae5-9215-8e79c38894b6)
