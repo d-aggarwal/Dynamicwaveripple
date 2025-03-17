@@ -1,0 +1,4 @@
+(executable
+ (public_name dynamicwaveripple)
+ (name main)
+ (libraries claudius))

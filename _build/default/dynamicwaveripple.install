@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/dynamicwaveripple/META"
+  "_build/install/default/lib/dynamicwaveripple/dune-package"
+  "_build/install/default/lib/dynamicwaveripple/opam"
+]
+bin: [
+  "_build/install/default/bin/dynamicwaveripple.exe"
+]
